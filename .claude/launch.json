@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "le-treteau",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd ~/Claude/apps/le-treteau && npm run dev:vite -- --port 5219"],
+      "port": 5219
+    }
+  ]
+}
